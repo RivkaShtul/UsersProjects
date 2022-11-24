@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44424",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\Admin\\Downloads\\project\\Project1\\Project1\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
